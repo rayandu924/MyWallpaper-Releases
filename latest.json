@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "First release of MyWallpaper Desktop app with Tauri!\n- Desktop wallpaper mode\n- Mouse interaction support\n- Auto-update functionality\n- All MyWallpaper features integrated",
+  "pub_date": "2025-09-13T10:30:00.000Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "unsigned",
+      "url": "https://github.com/rayandu924/MyWallpaper-Releases/releases/download/v0.1.0/MyWallpaperDesktop_v0.1.0_Setup.exe"
+    }
+  }
+}
