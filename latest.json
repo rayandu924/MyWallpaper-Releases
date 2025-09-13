@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "First release of MyWallpaper Desktop app with Tauri!\n- Desktop wallpaper mode\n- Mouse interaction support\n- Auto-update functionality\n- All MyWallpaper features integrated",
-  "pub_date": "2025-09-13T10:30:00.000Z",
+  "version": "0.1.1",
+  "notes": "🚀 MyWallpaper Desktop v0.1.1 - Auto-Start Update!\n\n✨ New Features:\n- **Windows Auto-Start**: App now launches automatically at Windows startup!\n- Improved stability and performance\n\n🔧 Technical Updates:\n- Added tauri-plugin-autostart for seamless startup experience\n- Enhanced system integration\n- Better error handling\n\nNo more manual launching - your wallpaper will be ready when you boot up! 🖥️✨",
+  "pub_date": "2025-09-13T11:00:00.000Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "unsigned",
-      "url": "https://github.com/rayandu924/MyWallpaper-Releases/releases/download/v0.1.0/MyWallpaperDesktop_v0.1.0_Setup.exe"
+      "url": "https://github.com/rayandu924/MyWallpaper-Releases/releases/download/v0.1.1/MyWallpaperDesktop_v0.1.1_Setup.exe"
     }
   }
 }
