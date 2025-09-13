@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "🚀 MyWallpaper Desktop v0.1.1 - Auto-Start Update!\n\n✨ New Features:\n- **Windows Auto-Start**: App now launches automatically at Windows startup!\n- Improved stability and performance\n\n🔧 Technical Updates:\n- Added tauri-plugin-autostart for seamless startup experience\n- Enhanced system integration\n- Better error handling\n\nNo more manual launching - your wallpaper will be ready when you boot up! 🖥️✨",
-  "pub_date": "2025-09-13T11:00:00.000Z",
+  "version": "0.1.2",
+  "notes": "🔐 MyWallpaper Desktop v0.1.2 - OAuth Authentication Fixed!\n\n✨ New Features:\n- **OAuth Authentication**: Google and GitHub login now work properly in Tauri app!\n- External browser authentication flow for secure OAuth\n- Automatic environment detection (Web vs Tauri)\n\n🔧 Technical Updates:\n- Added tauri-plugin-opener for secure external browser OAuth\n- Smart OAuth hook switching between web and desktop environments\n- Enhanced error handling for authentication flows\n- Maintained Windows auto-start functionality\n\n🖥️ Desktop users can now authenticate with Google/GitHub through their default browser! 🔐✨",
+  "pub_date": "2025-09-13T12:30:00.000Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "unsigned",
-      "url": "https://github.com/rayandu924/MyWallpaper-Releases/releases/download/v0.1.1/MyWallpaperDesktop_v0.1.1_Setup.exe"
+      "url": "https://github.com/rayandu924/MyWallpaper-Releases/releases/download/v0.1.2/MyWallpaperDesktop_v0.1.2_Setup.exe"
     }
   }
 }
